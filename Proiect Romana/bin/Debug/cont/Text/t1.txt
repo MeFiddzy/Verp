@@ -1,0 +1,5 @@
+Verbul este partea de vorbire, pentru centru al unui enunț care arată starea sau existența. După capacitatea lor de a forma predicate singure, verbele pot fi:
+-predicative(toate verbele cu excepția verbului „a deveni” ex :Anca mergea la scoală.)
+-nepredicative(care nu pot forma singure predicatul),acestea sunt:
+->auxiliare(Un verb auxiliar este un verb care ajută alt verb să formeze timpuri sau moduri diferite. Exemple: „a fi” și „a avea”  sau „voi pleca”. Ele nu au sens de sine stătător, doar ajută la gramatică)
+-> copulative(Sunt acele verbe care stabilesc o relație între subiect si nume predicativ. Redă fie o însușire a subiectului fie o caracteristică a acestuia.) Ex: Eu mă voi  face inginer.)

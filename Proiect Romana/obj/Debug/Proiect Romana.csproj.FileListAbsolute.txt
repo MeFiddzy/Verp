@@ -1,0 +1,26 @@
+D:\source\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.exe.config
+D:\source\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.exe
+D:\source\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.pdb
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.AssemblyReference.cache
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Form1.resources
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Properties.Resources.resources
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.GenerateResource.cache
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.CoreCompileInputs.cache
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.exe
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.pdb
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Teorie.resources
+D:\source\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Joc.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.exe.config
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.exe
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\bin\Debug\Proiect Romana.pdb
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.AssemblyReference.cache
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Form1.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Joc.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Properties.Resources.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Teorie.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.GenerateResource.cache
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.exe
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect Romana.pdb
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.JocFinalizat.resources
+D:\Visual Studio Programs\C#\Proiect Romana\Proiect Romana\obj\Debug\Proiect_Romana.Settings.resources

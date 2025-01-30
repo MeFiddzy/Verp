@@ -1,0 +1,9 @@
+Modul indicativ are mai multe timpuri verbale:
+Prezent(Este acțiunea care se întâmpla în acest moment. Ex: Eu merg la magazin.)
+Imperfect(Este un timp verbal care exprimă o acțiune trecută, neterminată. Ex: Citeam cand a intrat in cameră.)
+Perfect compus (Perfectul compus este un timp verbal care exprimă o acțiune trecută, terminată. Ex: Am mâncat mâncarea din farfurie.).
+Perfect simplu (Perfectul simplu este un timp verbal care exprimă o acțiune trecută, terminată, utilizat mai ales în limbajul literar sau în regiunile din sudul României (Oltenia). Ex: Văzui un film interesant ieri.).
+Mai mult ca perfect (Mai mult ca perfectul este un timp verbal care exprimă o acțiune trecută care a avut loc înaintea altei acțiuni trecute. Ex: Plecasem de acasă înainte să înceapă ploaia.).
+Viitor literar:(Viitorul popular este o formă a viitorului folosită frecvent în limbajul sau regional. Ex: Am să merg la piață mâine.).
+Viitor forma populara(Viitorul forma populara este o formă folosită în vorbirea simplă, mai ales la țară. Ex: Oi veni mâine la tine.).
+Viitor anterior (Viitorul anterior este un timp verbal care exprimă o acțiune viitoare ce se va fi încheiat înaintea altei acțiuni viitoare. Ex: Până când vei ajunge tu, eu voi fi terminat de scris.).
