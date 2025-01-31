@@ -32,6 +32,6 @@ Propoziție
 spațiu liber1
 spațiu liber2
 ```
-Adăugare: Dacă adugi un " " (spațiu) sau un "    " (tab) undeva unde nu trebuie să fie, nu o să funcțineze jocul.
+Adăugare: Dacă adugi un spațiu sau un tab undeva unde nu trebuie să fie, nu o să funcțineze jocul.
 
 Dacă ai nevoie de ajutor poți sa deschizi un Issue și eu sau altcineva o să te ajute.
